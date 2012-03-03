@@ -15,27 +15,27 @@ In most cases this will be it, as most topics are well explained in tutorials or
 Sections
 ========
 
-Git
+[Git](https://github.com/BZLabs/doc_drawer/tree/master/git)
 -------
 
 Mostly links to external information on setting up and using Git. Also includes some notes on commits.
 
-GitHub
+[GitHub](https://github.com/BZLabs/doc_drawer/tree/master/github)
 ------
 
 Contains some links to articles in GitHub's help site, as well as some topics on ways we use GitHub issues.
 
-Ruby
+[Ruby](https://github.com/BZLabs/doc_drawer/tree/master/ruby)
 -------
 
 Contains links to setting up RVM and preparing rubies for use.
 
-Rails
+[Rails](https://github.com/BZLabs/doc_drawer/tree/master/rails)
 -------
 
 Links to rails tutorials, guides, screencasts and some books. Along with various topics including databases, testing, deploying and more.
 
-Shell/Terminal
+[Shell/Terminal](https://github.com/BZLabs/doc_drawer/tree/master/shell)
 -------
 
 Contains some info on working with the shell, customizing certain aspects, and some tips on getting the most out of the shell.
